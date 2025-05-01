@@ -7,6 +7,36 @@ To build the project please copy in another folder from *build/SpectrumAsylum* t
     - Build binaries : C:/[...]/[*NameOfTheFolder*]/build <br>
 Last you can paste the previous folders and dll file into *build/SpectrumAsylum*.
 
+## Subject
+
+
+The goal of this Final year project was to practice all the skills we've learned this year in C++, 3D, and collision detection.
+This year's the project is a 3D FPS built with OpenGL. We must created a prototype of the 2018 puzzle game, The Spectrum Retreat:
+https://www.youtube.com/watch?v=7O6KJJt1QyY
+
+## Constraints
+
+### Organisation
+
+
+The project will last three weeks.
+- The group will have a Team Lead who will make technical decisions and monitor the project's progress.
+- There will be three milestones: ALPHA, BETA, and GOLD.
+- Every Monday, the team will hold a progress review with the project manager.
+
+### Technologies
+
+The project must be developed on Windows in C++ with the **OpenGL 3.3 API or higher**.
+(https://glad.dav1d.de/ Profile: Core)
+- You must reuse the modern OpenGL project for the graphics library.
+- The goal is not to start from scratch. Use the existing one to go faster.
+- For math, you must use your own math library.
+- For windowing, you must use *GLFW*.
+- To design user interfaces, you must use *ImGUI*.
+- For loading images, you can use *stb_image*.
+- To load 3D models other than OBJ files, you can use *Assimp*.
+- To play sound, you can use *irrKlang*.
+
 ## Input
 
 | Input | Description |
