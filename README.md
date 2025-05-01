@@ -1,5 +1,16 @@
 # PFA
 
+## Input
+
+| Input | Description |
+| :---: | :---: |
+| **W** | Forward |
+| **A** | Left |
+| **S** | Backward |
+| **D** | Right |
+| **Mouse** | Look around |
+| **Left mouse button** | Click on a cube to take its light |
+
 ## Sources
 
 **Game music** from : https://pixabay.com/fr/sound-effects/sci-fi-survival-dreamscape-6319/ by Pixabay
