@@ -1,5 +1,12 @@
 # PFA
 
+### Before to start
+
+To build the project please copy in another folder from *build/SpectrumAsylum* the *assets* folder, the *shaders* folder and *glfw3.dll* file, then build the project with CMake : <br>
+    - Source code : C:/[...]/[*NameOfTheFolder*]/source <br>
+    - Build binaries : C:/[...]/[*NameOfTheFolder*]/build <br>
+Last you can paste the previous folders and dll file into *build/SpectrumAsylum*.
+
 ## Input
 
 | Input | Description |
